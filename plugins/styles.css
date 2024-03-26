@@ -36,7 +36,7 @@ header {
 }
 
 .love {
-    margin-bottom: 10px;
+    margin-bottom: 80px;
     position: absolute;
     bottom: 0;
     font-family: 'La Belle Aurore', cursive;
@@ -44,7 +44,7 @@ header {
 }
 
 .hero-text {
-    font-size: 3rem;
+    font-size: 10rem;
     font-family: 'Dancing Script', cursive;
     position: relative;
     z-index: 2;
@@ -52,7 +52,7 @@ header {
 }
 
 .quote {
-    font-size: 1rem;
+    font-size: 5rem;
     font-family: 'La Belle Aurore', cursive;
     margin-top: 0;
     color: rgb(0, 0, 0);
